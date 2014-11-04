@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1">
+	<!-- TODO Add Nodes -->
+	<script>
+	function(){
+	var logo:Image = Image {
+    url: "hotel-cattolica.png"
+    width: 50
+    height: 50
+    }
+} 
+</script>
+</AnchorPane>
+
